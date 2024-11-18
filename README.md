@@ -1,4 +1,4 @@
-# Layer 2 Decentralized Application (DApp) Tester
+## Layer 2 Decentralized Application (DApp) Tester
 
 # 📋 Table of Contents
 1. Project Overview
