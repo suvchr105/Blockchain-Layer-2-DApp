@@ -1,6 +1,7 @@
 ## Layer 2 Decentralized Application (DApp) Tester
 
-![Uploading dapp.png…]()
+![dapp](https://github.com/user-attachments/assets/9c9d5385-3d62-43da-a75f-8ffd73d9edf0)
+
 
 # 📋 Table of Contents
 1. Project Overview
