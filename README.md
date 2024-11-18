@@ -12,7 +12,7 @@
 
 # 🌟 Project Overview
 This Layer 2 DApp Tester is a comprehensive blockchain network simulation tool designed to test and analyze decentralized application performance using Ethereum-compatible blockchain technologies.
-
+![Screenshot 2024-11-18 at 7 28 26 PM](https://github.com/user-attachments/assets/a2ec0140-cd49-4365-a320-2c8923c8009c)
 # Key Features
 
 User registration simulation
