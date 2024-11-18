@@ -72,7 +72,7 @@ Python Virtual Environment
 
 1. Clone the Repository
 
-git clone https://github.com/yourusername/layer2-dapp-tester.git
+git clone https://github.com/suvchr105/layer2-dapp-tester.git
 cd layer2-dapp-tester
 2. Blockchain Development Tools Setup
 
