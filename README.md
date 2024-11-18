@@ -1,5 +1,7 @@
 ## Layer 2 Decentralized Application (DApp) Tester
 
+![Uploading dapp.png…]()
+
 # 📋 Table of Contents
 1. Project Overview
 2. Prerequisites
