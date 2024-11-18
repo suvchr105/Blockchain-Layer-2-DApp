@@ -13,6 +13,42 @@
 # 🌟 Project Overview
 This Layer 2 DApp Tester is a comprehensive blockchain network simulation tool designed to test and analyze decentralized application performance using Ethereum-compatible blockchain technologies.
 ![Screenshot 2024-11-18 at 7 28 26 PM](https://github.com/user-attachments/assets/a2ec0140-cd49-4365-a320-2c8923c8009c)
+
+# Experimental Setup
+
+1. Network Configuration
+
+Total Nodes: 100 users
+Network Topology: Barabási-Albert Scale-Free Network
+Joint Account Generation: Power-law degree distribution
+Initial Balance Distribution: Exponential distribution (μ = 10)
+
+2. Transaction Simulation Parameters
+Total Transactions: 1000
+Transaction Amount: 1 coin
+Transaction Selection: Random user pair
+
+3. Network Topology Analysis
+3.1 Network Characteristics
+Nodes: 100
+Edges (Joint Accounts): 291
+Average Node Degree: 5.82
+Key Observations:
+Scale-free network structure mimics real-world social networks
+Power-law distribution ensures some nodes have higher connectivity
+Network exhibits small-world network properties
+
+
+
+4 . Transaction Performance Metrics
+
+4.1 Transaction Success Rate
+Total Transactions: 1000
+Successful Transactions: 996
+Success Rate: 99.60%
+
+
+
 # Key Features
 
 User registration simulation
